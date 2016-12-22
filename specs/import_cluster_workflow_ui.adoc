@@ -152,6 +152,10 @@ Basic import cluster flows are already implemented in UI. The changes with respe
 * Should set the details of imported cluster from the view.
 * Should display proper notification message once import cluster workflow initiated.
 
+=== Integration testing:
+
+* Ceph https://github.com/Tendrl/usmqe-tests/issues/11
+* Gluster https://github.com/Tendrl/usmqe-tests/issues/12
 
 == Documentation impact:
 
